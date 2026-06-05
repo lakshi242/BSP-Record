@@ -1,5 +1,5 @@
-## EXP NO: 	DESIGN OF FIR FILTER USING RECTANGULAR WINDOWS 
-## DATE :
+## EXP NO: 05 	DESIGN OF FIR FILTER USING RECTANGULAR WINDOWS 
+## DATE :15/05/2026
 
 ## AIM:
 
@@ -49,6 +49,9 @@ xlabel(‘Normalised frequency,\omega/\pi’, ‘font weight’, ‘b’);
 ylabel (‘Magnitude’, ‘font weight’, ‘b’);
 
 ## OUTPUT 
+
+<img width="936" height="1018" alt="image" src="https://github.com/user-attachments/assets/1f42f748-cb1f-4f28-9f6f-3fcb3357120b" />
+
 
 ## RESULT
 Thus the FIR filter with the given specifications was designed using rectangular windowing technique.
