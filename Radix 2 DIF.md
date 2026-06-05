@@ -1,5 +1,5 @@
-## EXP NO:01	RADIX-2 DECIMATION-IN-FREQUENCY (DIF) FFT
-## DATE :
+## EXP NO: 01	RADIX-2 DECIMATION-IN-FREQUENCY (DIF) FFT
+## DATE : 24/04/2026
 ## AIM:
 
 To implement the Radix-2 DIF FFT algorithm in MATLAB and analyze the frequency-domain representation of a given discrete-time sequence.
@@ -80,7 +80,7 @@ ylabel('∠X(k)');
 ## OUTPUT
 
  
-
+<img width="946" height="1013" alt="image" src="https://github.com/user-attachments/assets/1089bc55-4148-4a26-8a9a-0bfab45cbad9" />
 
 
 
