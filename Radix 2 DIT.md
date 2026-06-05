@@ -94,7 +94,7 @@ grid on;
 ## OUTPUT
  
 
-
+<img width="956" height="1018" alt="image" src="https://github.com/user-attachments/assets/937a915a-1308-48c4-8253-8c49cae168f9" />
 
 
 
